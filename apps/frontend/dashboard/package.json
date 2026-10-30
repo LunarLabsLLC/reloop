@@ -66,7 +66,7 @@
 		"cuelume": "^0.2.2",
 		"date-fns": "4.1.0",
 		"dayjs": "catalog:ui",
-		"dompurify": "3.4.13",
+		"dompurify": "3.4.17",
 		"framer-motion": "catalog:ui",
 		"jotai": "^2.12.5",
 		"lib0": "^0.2.117",
